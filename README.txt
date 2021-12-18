@@ -1,3 +1,11 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ac7d5a2-b600-409e-a436-8adefc01f3dc/deploy-status)](https://app.netlify.com/sites/studiotheron/deploys)
+
+STUDIO THERON | @studiotheron
+
+Using the "Spectral" theme by HTML5 UP
+Credits and more info below:
+
+
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
